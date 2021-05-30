@@ -97,7 +97,7 @@ git clone https://github.com/leoshrey/Relaxitori
 
 ## License📜
 
-[MIT License](https://github.com/purnima143/Kurakoo/blob/master/LICENSE)
+[MIT License]()
 
 
 
