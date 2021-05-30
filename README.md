@@ -1,4 +1,4 @@
-![Relaxitori-logo] ()
+![Relaxitori-logo](https://github.com/leoshrey/Relaxitori/blob/master/public/logoR.png)
 
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
