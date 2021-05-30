@@ -109,7 +109,7 @@ Introduction
 <tr>
     <td align="center"><a href="https://www.linkedin.com/in/shreyash-lata/"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQExM77z80AXbw/profile-displayphoto-shrink_400_400/0/1621689036954?e=1628121600&v=beta&t=m-mec1Z2lk25EHZvTSFdawiQ_nyvoXhPz_d1z3nMZ-M" width="100px;" alt=""/><br /><sub><b>Shreyash</b></sub></a><br />
 </a> </td>
-    <td align="center"><a href="https://www.linkedin.com/in/ir2010/"><img src="" width="100px;" alt=""/><br /><sub><b>Himanshu</b></sub></a><br /><a href="https://github.com/ir2010" >  <img src="#"  width="50" height="40"/>
+    <td align="center"><a href="https://himanshujaidka-github-io.vercel.app/"><img src="" width="100px;" alt=""/><br /><sub><b>Himanshu</b></sub></a><br /><a href="https://github.com/ir2010" >  <img src="#"  width="50" height="40"/>
 </a></td>
    
 
