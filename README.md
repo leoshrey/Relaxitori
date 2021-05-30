@@ -5,7 +5,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 
-**Relaxitori** Intro. **Relaxitori** Intro **Relaxitori**
 
 
 ## Project Description💡
