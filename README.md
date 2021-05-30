@@ -81,9 +81,6 @@ git clone https://github.com/leoshrey/Relaxitori
 
     
 
-## Hack.On Hackathon
-Introduction
-
 
 
 
