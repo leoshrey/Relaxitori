@@ -8,9 +8,9 @@
 **Relaxitori** Intro. **Relaxitori** Intro **Relaxitori**
 
 
-## Project Background💡
+## Project Description💡
 
-Intro
+Relaxitory is a zone for people to come and relax, listen to music, and understand how important is mental health. It just gets you into a very calm and peaceful world, where all you have to do is Relax and Listen to the music.
 
 ## Areas of Collaboration 👨‍🏭
 
