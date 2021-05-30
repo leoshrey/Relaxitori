@@ -15,7 +15,7 @@ Relaxitory is a zone for people to come and relax, listen to music, and understa
 
 Project Managers, Developers, and Designers would be collaborating on various domains like:
 
--   **UI Prototyping** with figma tool []().
+-   **UI Prototyping** with figma tool []()
     
 -   **Front-End Development with ReactJS**
     
