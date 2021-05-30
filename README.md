@@ -87,7 +87,7 @@ git clone https://github.com/purnima143/Kurakoo.git
 ## Hack.On Hackathon
 Introduction
 
-![0_hvZkvLGPR4t6TFhS](https://user-images.githubusercontent.com/57852378/108583937-3ef2fb00-7363-11eb-9239-a274fbe00bdd.png)
+
 
 
 ## Learning Resources 🧰
